@@ -1,0 +1,16 @@
+{
+	"Person": { "Name": "Yaroslav",
+		    "Age": 25,
+		    "Surname": "Nahornyi",
+		    "Hobby": "Mountains",
+		    "Location": "Kyiv",
+		    "Ocupation": "QA Student",
+		    "Future Salary": "1500$" },
+
+	"Work": { "Compamy": "Loreal",
+		  "Position": "Logistic",
+		  "Experience": 4},
+	"Cat": "Vasya",
+	"Rat": "Mysua"
+}
+
